@@ -40,50 +40,77 @@
 
 ### ✦ Featured Work
 
-| Project | Details |
-|---------|---------|
-| **[DevConnect](https://github.com/aldiii111/dev-social-app)** | **Collaboration platform for developers**<br><br>• Real-time collaboration posts<br>• Custom user profiles<br>• Secure authentication (Email + Google)<br><br>*React 19, TypeScript, TailwindCSS v4, Shadcn/UI, Express 5, Prisma, PostgreSQL, Socket.IO* |
-| **[Food Ordering System](https://github.com/aldiii111/Foods-Orderings-Systems)** | **Fullstack e-commerce application**<br><br>• Order tracking and cart management<br>• Admin dashboard<br>• Image uploads via Multer<br><br>*React, TypeScript, TailwindCSS, Express, Prisma* |
-| **[MyRecipe](https://github.com/aldiii111/My-Recipe)** | **Recipe discovery application**<br><br>• Resizable split panels<br>• Instant search<br>• Clean UI/UX focus<br><br>*React, Vite, TailwindCSS, Radix UI* |
-| **Portfolio Websites** | **Personal websites showcasing design**<br><br>• V1: Minimalist + LocalStorage CMS<br>• V2: Neo-Brutalism Design<br><br>*HTML, TailwindCSS, JavaScript* |
+**[DevConnect](https://github.com/aldiii111/dev-social-app)** 
+> *Fullstack web app where developers can find collaborators for projects.*
+
+| | |
+|---|---|
+| **Frontend** | React 19, TypeScript, TailwindCSS v4, Shadcn/UI, TanStack Query, React Hook Form + Zod, Socket.IO Client |
+| **Backend** | Express 5, TypeScript, Prisma ORM, PostgreSQL, JWT + Google OAuth |
+| **Highlights** | • Real-time collaboration posts <br> • Advanced form validation & state management <br> • Secure authentication <br> • Custom user profiles & tech stack filtering |
 
 <br>
 
-### ✦ Explorations & Studies
+**[Food Ordering System](https://github.com/aldiii111/Foods-Orderings-Systems)** 
+> *Fullstack e-commerce application with a complete admin dashboard.*
 
-| Focus Area | Description |
-|------------|-------------|
-| **UI Design Studies** | Exploring Neo-Brutalism, Glassmorphism, Retro, and Bento Grid layouts. |
-| **Vanilla JavaScript** | **KasirJS**: Point-of-sale app built completely from scratch without frameworks. |
-| **Logic Challenges** | Daily JavaScript problem-solving focusing on DOM manipulation and async logic. |
+| | |
+|---|---|
+| **Tech Stack** | React, TypeScript, TailwindCSS, Express, Prisma, PostgreSQL |
+| **Highlights** | • Order tracking & cart management <br> • Image uploads via Multer <br> • Responsive admin dashboard |
 
 <br>
 
-### ✦ Learning Architecture
+**[MyRecipe](https://github.com/aldiii111/My-Recipe)** 
+> *Recipe discovery application with a focus on clean UI/UX.*
 
-I believe in building in public and maintaining a structured learning path:
+| | |
+|---|---|
+| **Tech Stack** | React, Vite, TailwindCSS, Radix UI |
+| **Highlights** | • Resizable split panels <br> • Instant search & filtering <br> • High performance |
+
+<br>
+
+**Portfolio Websites (v1 & v2)** 
+> *Personal websites showcasing different UI/UX approaches.*
+
+| | |
+|---|---|
+| **Tech Stack** | HTML, TailwindCSS, JavaScript |
+| **Highlights** | • V1: Minimalist aesthetic with a custom LocalStorage CMS <br> • V2: Modern Neo-Brutalism design |
+
+---
+
+### ✦ Recent Learning & Architecture Focus
+
+I have transitioned from foundational learning to building complex, scalable architectures. Here is what I am actively exploring and applying in my current projects:
+
+| Focus Area | Current Application |
+|------------|---------------------|
+| **Modern React Ecosystem** | Applying **React 19**, **TanStack Query** for server state, and **React Hook Form + Zod** for robust client-side validation in *DevConnect*. |
+| **Fullstack Backend Design** | Designing relational databases with **Prisma ORM** & **PostgreSQL**, and building RESTful APIs using **Express 5**. |
+| **Real-time Web** | Integrating **Socket.IO** for live features and real-time data updates. |
+| **Next.js & SSR** | Deep diving into Server Components and the Next.js ecosystem for SEO and performance optimization. |
+
+<br>
+
+### ✦ Organized Development Structure
+
+I believe in building in public and maintaining a structured development environment:
 
 ```text
 Documents/
 ├─ learning/
-│  ├─ javascript/  (19 modules: DOM, Arrays, Async)
-│  ├─ react/       (3 projects: Food Ordering, MyRecipe, etc.)
-│  ├─ nextjs/      (Currently exploring Next.js basics)
-│  ├─ nodejs/      (Backend fundamentals)
-│  └─ project/     (Main projects: DevConnect, Portfolios)
+│  ├─ react/       (Advanced React projects: Food Ordering, MyRecipe)
+│  ├─ nextjs/      (Exploring Next.js framework & Server Components)
+│  └─ project/     (Current active workspace)
+│     ├─ DevConnect/         (Fullstack Monorepo)
+│     │  ├─ client/          (React, Tailwind v4, TanStack Query)
+│     │  └─ server/          (Express, Prisma, Socket.IO)
+│     └─ portfolio-aldiii/   (Deployed on Vercel)
 └─ RepositoryGit/
-   ├─ BelajarCoding/ (Layouts, Portfolio Templates)
-   └─ WorkshopWeb/   (GDG Workshop projects)
+   └─ WorkshopWeb/           (GDG Workshop projects & tech explorations)
 ```
-
-<br>
-
-### ✦ Current Focus
-
-• **DevConnect** — Scaling and improving the developer platform architecture.<br>
-• **React & TypeScript** — Deepening type safety and advanced React patterns.<br>
-• **Express & Prisma** — Mastering backend data modeling and API design.<br>
-• **Next.js** — Exploring Server Components and the Next.js ecosystem.
 
 <br>
 
